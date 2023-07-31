@@ -1,0 +1,89 @@
+body {
+    background-image: url(Tute.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+    color: #ffcb1f;
+    background-color: #232633;
+    width: 400px;
+    height: auto;
+    padding: 10px;   
+}
+#section-one {
+    color: white;
+    background-color: #e2970c;
+    width: auto;
+    height: 30px;
+    margin-bottom: 10px;   
+}
+form  { 
+    display: table;      
+}
+.p     { 
+    display: table-row; 
+    
+}
+.label { 
+    display: table-cell;
+    text-align: left;
+    padding: 10px;  
+}
+input { 
+    display: table-cell;
+    align : left;
+    position: relative;
+    left: 30px;   
+}
+select{
+    display: table-cell;
+    position: relative;
+    left: 30px;
+}
+.t {
+    text-align: center;
+    margin: auto;
+}
+#section-two {
+    color: white;
+    background-color: #e2970c;
+    width: auto;
+    height: 30px;
+}
+.button-one {
+    color: white;
+    background-color: #03A16F;
+    border: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    padding: 7px;
+    position: relative;
+    left: 0px;
+}
+.button-two {
+    color: white;
+    background-color: #c70000;
+    border: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    padding: 7px;
+    position: relative;
+    left: 2px;
+}
+.L1{
+    position: relative;
+    left: 30px;
+}
+.check {
+    position: relative;
+    left: 164px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.center {
+    margin: auto;
+    margin-top: 85px;
+}
+
